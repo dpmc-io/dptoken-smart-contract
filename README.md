@@ -1,13 +1,6 @@
-# Sample Hardhat Project
+# DP Token Smart Contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+This is DP Token Smart Contract codes, deployed on Arbitrum One.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+DP Token Smart Contract Address:
+https://arbiscan.io/token/0x29e9f02947eb12d6fcbc9d9200f922ace0948b34
